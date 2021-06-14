@@ -360,14 +360,6 @@ img{
     padding-bottom: 0;
 }
 
-.recommandation__post{
-    color: var(--title-color);
-}
-
-.recommandation__description{
-    margin-top: var(--margin-2);
-}
-
 .recommandation__ls{
     display: none;
 }
@@ -429,8 +421,7 @@ img{
     }
 
     .recommandation__ls{
-        /* display: inherit; */
-        display: none;
+        display: inherit;
     }
 
     .recommandation__post__ls{
